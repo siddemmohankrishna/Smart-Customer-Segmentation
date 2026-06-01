@@ -119,7 +119,7 @@ Smart_Card.ipynb
 
 ## 👨‍💻 Author
 
-**Mohan Krishna**
+**Siddem Mohan Krishna**
 
 Aspiring Data Analyst | AI/ML Enthusiast
 
