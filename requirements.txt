@@ -1,0 +1,9 @@
+data-analysis
+python
+customer-analytics
+pandas
+numpy
+matplotlib
+seaborn
+jupyter-notebook
+data-science
